@@ -17,7 +17,6 @@ Visualizations:
 * Symbol maps
 * Pie charts
 * Heat maps
-* 
 
 #### Resources used
 * Data Source: https://ride.citibikenyc.com/system-data
@@ -58,4 +57,4 @@ Finally, a spatial analysis helps to tie the above data points together. The hea
 
 
 ## Summary
-Our analysis suggests there is a significant market for New York employees to subscribe for commuting. However, to implement a similar program in the city of Des Moines would require additional analysis and acute attention in planning. We suggest a follow-up geographic analysis of the highest-visited checkout sites in New York City that cross-references the proximity of subscribers' employers. This may inform optimal placement of bike stations. Such a visualization could also imply centralized location(s) for bike maintenance shops. Finally, we suggest an analysis that uses the checkout location heat map across subscribed and unsubscribed groups. This would further inform advertising and marketing campaigns, e.g. "Tour the city!" vs. "The commute that gets you in shape!"
+Our analysis suggests there is a significant market for New York commuters. However, to implement a similar program in the city of Des Moines would require additional analysis and acute attention in planning. We suggest a follow-up geographic analysis of the highest-visited checkout sites in New York City that cross-references the proximity of subscribers' employers. This may inform optimal placement of bike stations. Such a visualization could also imply centralized location(s) for bike maintenance shops. Finally, we suggest an analysis that uses the checkout location heat map across subscribed and unsubscribed groups. This would further inform advertising and marketing campaigns, e.g. "Tour the city!" vs. "The commute that gets you in shape!"
