@@ -1,7 +1,7 @@
 # Bike_Sharing
 
 ## Project Overview
-Bike sharing is growing all over the United States. Among the cities participating in the system are New York, Chicago and Washington, D.C. But if you thought this sort of sustainable-minded movement were just a fad confined to the metropoles of the world, you'd be wrong. Enter stage left: Des Moines, Iowa. 
+Bike sharing is growing all over the United States. Among the cities with successfully operating bike share programs are New York, Chicago and Washington D.C. But if you thought this sustainable-minded mobility initiative as no more than a fad confined to the metropoles of the world, you'd be wrong. Enter stage left: Des Moines, Iowa. 
 
 This report aims to inform investors of the potential footprint and success of a bike sharing program in the midwest, specifically in Des Moines, Iowa. Using data from a bike sharing business in New York City, I have created visualizations and suggestions about market viability in the midwest. 
 
